@@ -100,3 +100,30 @@ Not a talk on project management, but in a nutshell:
 - Requires valuing your stakeholder's values
 
 ## Sub-Principle 2 - Time
+
+- Calendar Days vs Person Hours
+- Opportunity Window
+- Future Reward Discounting - get ref
+
+## Sub-Principle 3 - Cost
+
+- Money
+- Contributor Hours
+- Effort
+- Required Contributor Level
+- Risks
+
+## Sub-Principle 4 - Quality
+
+- Why does quality matter?
+- Risks / Cost
+- Forward Progress
+- Claim vs Reality
+
+Do I need a Tips/Guidelines/If-Then-When section?
+
+## Cautionary Tales
+
+- Painting Cabinets Story
+- Mobile Team Selection Story
+- 
