@@ -9,6 +9,7 @@ by John Goodwin
 - Decomposition of Demo
   - Process
   - Environment
+  - Storage
   - Mounts
   - Network
   - cgroup

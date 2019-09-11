@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="404.54578"
+   height="339.9476"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   version="1.0"
+   sodipodi:docbase="/home/mapto/Desktop"
+   sodipodi:docname="project-triangle-en.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="396.31021"
+     inkscape:cy="242.75774"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-143.784,-296.6925)"
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       sodipodi:arg2="1.5707963"
+       sodipodi:cx="131.42857"
+       sodipodi:cy="200.93361"
+       sodipodi:arg1="0.52359878"
+       style="fill:white;fill-opacity:1;stroke:black;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(214.2857,311.4286)"
+       sodipodi:r2="92.85714"
+       sodipodi:sides="3"
+       inkscape:randomized="0"
+       d="M 292.26187,293.79076 L 131.42858,293.79075 L -29.404724,293.79076 L 51.011931,154.50504 L 131.42857,15.219315 L 211.84521,154.50504 L 292.26187,293.79076 z "
+       inkscape:rounded="0"
+       sodipodi:r1="185.71429"
+       inkscape:flatsided="false"
+       id="path2760" />
+    <text
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       y="628.91333"
+       x="511.29367"
+       sodipodi:linespacing="125%"
+       id="text3647"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3649"
+         y="628.91333"
+         x="511.29367">TIME</tspan></text>
+    <text
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       y="629.62762"
+       x="178.80421"
+       sodipodi:linespacing="125%"
+       id="text3651"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3653"
+         y="629.62762"
+         x="178.80421">COST</tspan></text>
+    <text
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       y="314.50504"
+       x="346.22192"
+       sodipodi:linespacing="125%"
+       id="text3655"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3657"
+         y="314.50504"
+         x="346.22192">SCOPE</tspan></text>
+    <text
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Sans"
+       y="512.06628"
+       x="343.46631"
+       sodipodi:linespacing="125%"
+       id="text3659"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3661"
+         y="512.06628"
+         x="343.46631">QUALITY</tspan></text>
+  </g>
+</svg>
