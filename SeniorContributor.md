@@ -9,6 +9,7 @@ by John Goodwin
 - Motivation
 - Master Principle
 - Sub-Principles
+- Swaps
 - Cautionary Tales
 - Q&A
 
@@ -120,10 +121,14 @@ Not a talk on project management, but in a nutshell:
 - Forward Progress
 - Claim vs Reality
 
-Do I need a Tips/Guidelines/If-Then-When section?
+## Swaps
+
+- We never ... --> How can we ...
+- Cube-life ... -> Who can introduce ...
+- Confusion ... --> I propose ...
 
 ## Cautionary Tales
 
-- Painting Cabinets Story
-- Mobile Team Selection Story
-- 
+- Painting Cabinets
+- Mobile Team Selection
+- Point of Care Upgrades
