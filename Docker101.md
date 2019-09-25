@@ -4,6 +4,7 @@ by John Goodwin
 
 ## Agenda
 
+- Attendee Intentions
 - Docker in 60 seconds
 - Demo
 - Decomposition of Demo
@@ -16,6 +17,10 @@ by John Goodwin
   - signals
 - Q&A
 - Resources
+
+## Attendee Intentions
+
+At this time, want to ask each person what they hoped this talk would cover.
 
 ## Docker in 60 seconds
 
