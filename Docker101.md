@@ -2,6 +2,8 @@
 
 by John Goodwin
 
+---
+
 ## Agenda
 
 - Attendee Intentions
@@ -18,13 +20,19 @@ by John Goodwin
 - Q&A
 - Resources
 
+---
+
 ## Attendee Intentions
 
 At this time, want to ask each person what they hoped this talk would cover.
 
+---
+
 ## Docker in 60 seconds
 
 - <https://docs.docker.com/engine/docker-overview/>
+
+---
 
 ## Demo
 
@@ -32,6 +40,8 @@ At this time, want to ask each person what they hoped this talk would cover.
 docker run python:3.7-alpine python3 --version
 docker run python:3.7-alpine python3 -c 'print("Hello codecamp!")'
 ```
+
+---
 
 ## Process
 
@@ -44,14 +54,20 @@ docker inspect
 - Args
 - State
 
+---
+
 ## Environment
 
 - Config
+
+---
 
 ## Storage / Mounts
 
 - Union Filesystems
 - Mounts
+
+---
 
 ## Network
 
@@ -60,14 +76,20 @@ docker inspect
 - hosts
 - NetworkSettings
 
+---
+
 ## cgroup
 
 - what are cgroups
 - HostConfig
 
+---
+
 > cgroups (abbreviated from control groups) is a Linux kernel feature that limits, accounts for, and isolates the resource usage (CPU, memory, disk I/O, network, etc.) of a collection of processes.
 > Engineers at Google (primarily Paul Menage and Rohit Seth) started the work on this feature in 2006 under the name "process containers".
 >> source <https://en.wikipedia.org/wiki/Cgroups>
+
+---
 
 ## pipelining
 
@@ -79,6 +101,8 @@ docker run --rm python:3.7-alpine python3 --version > version.txt && cat version
   <img src="images/Stdstreams-notitle.svg" width="100%" />
 </div>
 
+---
+
 ## signals
 
 - <https://www.gnu.org/software/libc/manual/html_node/Termination-Signals.html>
@@ -88,11 +112,15 @@ docker run --rm python:3.7-alpine python3 --version > version.txt && cat version
 docker run --rm -it --mount type=bind,source=$(pwd)/sigterm.py,dst=/tmp/sigterm.py python:3.7-alpine python3 /tmp/sigterm.py
 ```
 
+---
+
 (note this is the same)
 
 ```shell
 docker run --rm -it --mount type=bind,source=$(pwd)/sigterm.py,dst=/tmp/sigterm.py --entrypoint=/bin/sh python:3.7-alpine -c "python3 /tmp/sigterm.py"
 ```
+
+---
 
 (but this hangs)
 
@@ -100,7 +128,13 @@ docker run --rm -it --mount type=bind,source=$(pwd)/sigterm.py,dst=/tmp/sigterm.
 docker run --rm -it --mount type=bind,source=$(pwd),dst=/app python:3.7-alpine /app/callsigterm.sh
 ```
 
+---
+
 ## Q&A
+
+### Questions
+
+---
 
 ## Resources
 
