@@ -4,6 +4,12 @@ theme: gaia
 class: lead
 ---
 
+# How to be a Senior Contributor
+
+by John Goodwin
+
+---
+
 <style scoped>
 section {
   background: white;
@@ -15,12 +21,6 @@ img {
 </style>
 
 ![Code Camp 2019](images/CodeCamp2019Slide.gif)
-
----
-
-# How to be a Senior Contributor
-
-by John Goodwin
 
 ---
 
@@ -214,4 +214,5 @@ Not a talk on project management, but in a nutshell:
 ## Resources
 
 - <https://github.com/marp-team/marp-vscode>
+  - <https://github.com/marp-team/marp-cli/>
   - Used to transform markdown to slides

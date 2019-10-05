@@ -4,6 +4,12 @@ theme: gaia
 class: lead
 ---
 
+# Not your Daddy's Docker 101
+
+by John Goodwin
+
+---
+
 <style scoped>
 section {
   background: white;
@@ -15,12 +21,6 @@ img {
 </style>
 
 ![Code Camp 2019](images/CodeCamp2019Slide.gif)
-
----
-
-# Not your Daddy's Docker 101
-
-by John Goodwin
 
 ---
 
@@ -163,4 +163,5 @@ docker run --rm -it --mount type=bind,source=$(pwd),dst=/app python:3.7-alpine /
 - <https://docs.docker.com/>
 - <https://katacoda.com/>
 - <https://github.com/marp-team/marp-vscode>
+  - <https://github.com/marp-team/marp-cli/>
   - Used to transform markdown to slides
