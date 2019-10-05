@@ -1,6 +1,37 @@
+---
+marp: true
+theme: gaia
+class: lead
+---
+
+<style scoped>
+section {
+  background: white;
+}
+
+img {
+  margin-left: -70px;
+}
+</style>
+
+![Code Camp 2019](images/CodeCamp2019Slide.gif)
+
+---
+
 # Not your Daddy's Docker 101
 
 by John Goodwin
+
+---
+
+# Intro
+
+- Metabolon, Inc
+  - <https://www.metabolon.com/>
+- Principal Software Engineer
+- Writing software professionally since 1997
+
+![Metabolon Logo](images/metabolon-logo.png)
 
 ---
 
@@ -10,13 +41,6 @@ by John Goodwin
 - Docker in 60 seconds
 - Demo
 - Decomposition of Demo
-  - Process
-  - Environment
-  - Storage / Mounts
-  - Network
-  - cgroup
-  - pipelining
-  - signals
 - Q&A
 - Resources
 
@@ -78,7 +102,7 @@ docker inspect
 
 ---
 
-## cgroup
+## cgroups
 
 - what are cgroups
 - HostConfig
@@ -97,9 +121,7 @@ docker inspect
 docker run --rm python:3.7-alpine python3 --version > version.txt && cat version.txt
 ```
 
-<div style="background-color:silver; text-align:center; vertical-align: middle; padding:10px 10px;">
-  <img src="images/Stdstreams-notitle.svg" width="100%" />
-</div>
+![Std Streams](images/Stdstreams-notitle.svg)
 
 ---
 
@@ -140,3 +162,5 @@ docker run --rm -it --mount type=bind,source=$(pwd),dst=/app python:3.7-alpine /
 
 - <https://docs.docker.com/>
 - <https://katacoda.com/>
+- <https://github.com/marp-team/marp-vscode>
+  - Used to transform markdown to slides
